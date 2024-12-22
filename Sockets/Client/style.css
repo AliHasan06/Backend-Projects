@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(122, 75, 5);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#form{
+    margin: auto;
+    text-align: center;
+}
+#form input{
+    /* width: 300px;
+    height: 30px; */
+    padding: 15px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+
+#Send{
+    background-color: rgb(86, 194, 23);
+    color: rgb(51, 50, 48);
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 15px;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+#edit{
+    background-color: rgb(86, 194, 23);
+    color: rgb(51, 50, 48);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#delete{
+    background-color: rgb(224, 33, 58);
+    color: rgb(51, 50, 48);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    text-align: center;
+    /* width:20vw; */
+    list-style: none;
+    gap: 50px;
+}
+.h1{
+    margin: auto;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
